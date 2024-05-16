@@ -32,6 +32,6 @@ Ce projet m'a permis de développer et d'appliquer mes compétences techniques e
 
 Conclusion :
 
-Grâce à cette expérience enrichissante, j'ai développé des compétences solides en analyse de données tout en contribuant à un enjeu mondial crucial. Je suis désormais mieux préparée à relever les défis futurs dans le domaine de la science des données et à continuer à œuvrer pour un monde où la faim n'est plus qu'un lointain souvenir ! 🌍🍏
+Grâce à cette expérience enrichissante, j'ai développé des compétences solides en analyse de données tout en contribuant à un enjeu mondial crucial. Je suis désormais mieux préparée à relever les défis futurs dans le domaine de la science des données et à continuer à œuvrer pour un monde où la faim ne serait plus qu'un lointain souvenir ! 🌍🍏
 Explorez ce projet captivant pour voir comment les données peuvent avoir un impact positif sur notre société et notre planète ! 💡
 

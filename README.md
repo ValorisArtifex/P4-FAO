@@ -30,7 +30,6 @@ Ce projet m'a permis de développer et d'appliquer mes compétences techniques e
 - Utilisation de Jupyter Notebook pour documenter et partager mon travail.
 - Capacité à interpréter et à communiquer des résultats complexes de manière accessible.
 
-#### Conclusion :
+Conclusion :
 
-Grâce à cette expérience enrichissante, j'ai développé des compétences solides en analyse de données tout en contribuant à un enjeu mondial crucial. Je suis désormais mieux préparée à relever les défis futurs dans le domaine de la science des données et à continuer à œuvrer pour un monde où la faim n'est plus qu'un lointain souvenir ! 🌍
----
+Grâce à cette expérience enrichissante, j'ai développé des compétences solides en analyse de données tout en contribuant à un enjeu mondial crucial. Je suis désormais mieux préparée à relever les défis futurs dans le domaine de la science des données et à continuer à œuvrer pour un monde où la faim n'est plus qu'un lointain souvenir ! 🌍🍏

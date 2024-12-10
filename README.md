@@ -1,4 +1,4 @@
-### Projet 4 Openclassrooms : Étude sur la sous-nutrition dans le monde 🌍🍽️
+### Projet : Étude sur la sous-nutrition dans le monde 🌍🍽️
 
 #### Introduction :
 
